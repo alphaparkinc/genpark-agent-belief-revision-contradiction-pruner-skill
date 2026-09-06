@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-belief-revision-contradiction-pruner-skill",
+  "version": "1.0.0",
+  "description": "Belief revision logic engine (AGM postulates) detecting contradictions and maintaining consistent agent world states.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "belief-revision",
+    "agm-postulates",
+    "contradiction-detection",
+    "epistemic-entrenchment",
+    "world-state"
+  ]
+}
